@@ -5,8 +5,8 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import WorkExperience from "./components/WorkExperience";
 import { useEffect, useState } from "react";
 import Projects from "./components/Projects";
-import hannuImage from "./portfolio-app/hannu_salmi_kuva.png";
-import sombreroImage from "./portfolio-app/sombreroHans.png";
+import hannuImage from "./hannu_salmi_kuva.png";
+import sombreroImage from "./sombreroHans.png";
 
 function App() {
   const [theme, setTheme] = useState("iceman");
