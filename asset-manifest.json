@@ -1,17 +1,19 @@
 {
   "files": {
     "main.css": "/portfolio-app/static/css/main.1a136f4f.css",
-    "main.js": "/portfolio-app/static/js/main.712723fc.js",
+    "main.js": "/portfolio-app/static/js/main.f415fbfa.js",
     "static/js/453.f4fbaa6d.chunk.js": "/portfolio-app/static/js/453.f4fbaa6d.chunk.js",
+    "static/media/hannu_salmi_kuva.png": "/portfolio-app/static/media/hannu_salmi_kuva.8d8f99772c728d94649c.png",
     "static/media/fiestaImage.jpg": "/portfolio-app/static/media/fiestaImage.f2a3fca56d9913f7b637.jpg",
     "static/media/tausta.jpg": "/portfolio-app/static/media/tausta.2186ab9b70f0b80364b0.jpg",
+    "static/media/sombreroHans.png": "/portfolio-app/static/media/sombreroHans.a7f84d982554ff7067ef.png",
     "index.html": "/portfolio-app/index.html",
     "main.1a136f4f.css.map": "/portfolio-app/static/css/main.1a136f4f.css.map",
-    "main.712723fc.js.map": "/portfolio-app/static/js/main.712723fc.js.map",
+    "main.f415fbfa.js.map": "/portfolio-app/static/js/main.f415fbfa.js.map",
     "453.f4fbaa6d.chunk.js.map": "/portfolio-app/static/js/453.f4fbaa6d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a136f4f.css",
-    "static/js/main.712723fc.js"
+    "static/js/main.f415fbfa.js"
   ]
 }
