@@ -30,13 +30,13 @@ function App() {
 
             <img
               className="hannu"
-              src="./portfolio-app/hannu_salmi_kuva.png"
+              src="./hannu_salmi_kuva.png"
               alt="Image where Hannu Salmi looks happy"
             />
             {theme === "fiesta" && (
               <img
                 className="hat"
-                src="./portfolio-app/sombreroHans.png"
+                src="./sombreroHans.png"
                 alt="Image for Fiesta theme"
               />
             )}
