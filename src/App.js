@@ -5,6 +5,8 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import WorkExperience from "./components/WorkExperience";
 import { useEffect, useState } from "react";
 import Projects from "./components/Projects";
+import hannuImage from "./portfolio-app/hannu_salmi_kuva.png";
+import sombreroImage from "./portfolio-app/sombreroHans.png";
 
 function App() {
   const [theme, setTheme] = useState("iceman");
@@ -30,13 +32,13 @@ function App() {
 
             <img
               className="hannu"
-              src="./portfolio-app/hannu_salmi_kuva.png"
+              src={hannuImage}
               alt="Image where Hannu Salmi looks happy"
             />
             {theme === "fiesta" && (
               <img
                 className="hat"
-                src="./portfolio-app/sombreroHans.png"
+                src={sombreroImage}
                 alt="Image for Fiesta theme"
               />
             )}
